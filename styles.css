@@ -89,3 +89,31 @@ nav a {
     justify-content: center;
     gap: 20px;
 }
+
+footer{
+background-color: rgb(143,61,7);
+color:white;
+text-align:center;
+padding:20px;
+margin-top:30px;
+border-radius:20px;
+}
+footer h3{
+margin-bottom:10px;
+}
+footer ul{
+list-style:none;
+padding:0;
+}
+footer li{
+margin:8px 0;
+}
+footer a{
+text-decoration:none;
+}
+footer a:hover{
+opacity:0.8;
+}
+footer hr{
+margin:20px 0;
+}
